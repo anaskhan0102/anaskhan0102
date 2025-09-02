@@ -41,7 +41,7 @@
 *The weapons I wield to build digital masterpieces*
 
 </div>
-
+<div align="center">
 <details open>
 <summary><b>🎨 Frontend Mastery</b></summary>
 <br>
@@ -94,7 +94,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
-
+</div>
 ---
 
 <div align="center">
